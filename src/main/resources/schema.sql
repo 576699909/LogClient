@@ -1,2 +1,0 @@
-drop table if exists FOO;
-CREATE TABLE FOO (ID INT IDENTITY ,BAR VARCHAR(64));
